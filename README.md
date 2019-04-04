@@ -1,2 +1,2 @@
 # atlas-docker
-Docker v2 Atlas
+Docker having Atlas v2 + embedded cassandra + elasticsearch + kafka
